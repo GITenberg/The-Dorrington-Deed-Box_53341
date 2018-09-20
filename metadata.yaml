@@ -1,0 +1,38 @@
+_repo: The-Dorrington-Deed-Box_53341
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+creator:
+  author:
+    agent_name: Morrison, Arthur
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '3903'
+    url: http://www.gutenberg.org/2009/agents/3903
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Morrison
+description: ''
+gutenberg_bookshelf: Adventure
+gutenberg_issued: '2016-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories, English'
+- !lcsh 'Private investigators -- Fiction'
+- GITenberg
+tableOfContents: The narrative of Mr. James Rigby -- The case of Janissary -- The
+  case of the "Mirror of Portugal" -- The affair of the "Avalanche Bicycle and Tyre
+  Co., Limited" -- The case of Mr. Loftus Deacon -- Old Cater's money.
+title: The Dorrington Deed-Box
+url: http://www.gutenberg.org/ebooks/53341
